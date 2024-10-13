@@ -1,58 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Foody.com README file">
-  <title>Foody.com README</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      margin: 20px;
-      padding: 20px;
-      background-color: #f4f4f4;
-    }
-    h1, h2, h3 {
-      color: #333;
-    }
-    h1 {
-      text-align: center;
-      font-size: 32px;
-    }
-    h2 {
-      margin-top: 30px;
-      font-size: 26px;
-    }
-    p {
-      margin: 10px 0;
-    }
-    ul {
-      margin: 10px 0;
-      padding-left: 20px;
-    }
-    pre {
-      background-color: #eaeaea;
-      padding: 10px;
-      border-radius: 5px;
-      overflow-x: auto;
-    }
-    code {
-      background-color: #f1f1f1;
-      padding: 3px 5px;
-      border-radius: 3px;
-    }
-    footer {
-      margin-top: 50px;
-      text-align: center;
-      font-size: 14px;
-      color: #666;
-    }
-  </style>
-</head>
-<body>
-
-  <h1>Foody.com</h1>
+<h1>Foody.com</h1>
   
   <p><strong>Foody.com</strong> is a simple food-themed website that allows users to search for food items and explore different categories such as fast food, rice and curry, cake, and drinks. The website is designed with an aesthetic layout and user-friendly features, including hover effects, search functionality, and animated elements.</p>
 
@@ -108,7 +54,7 @@
   </ul>
 
   <h2>Author</h2>
-  <p>Created by <strong>skm@555</strong>.</p>
+  <p>Created by <strong>skmaurya05550</strong>.</p>
   <footer>
     &copy; 2024 Foody. All rights reserved.
   </footer>
