@@ -3,8 +3,6 @@
   padding: 0;
   box-sizing: border-box;
 
-
-
 .head-row1 {
   display: grid;
   grid-template-columns: auto 200px;
@@ -175,6 +173,7 @@ footer {
 footer p {
   margin: 5px 0; /* Space between footer paragraphs */
   }
+
 
 
 
