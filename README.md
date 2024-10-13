@@ -1,6 +1,6 @@
 <h1>Foody.com</h1>
 
-https://i.imghippo.com/files/qb6ow1728793223.jpg
+![](https://i.imghippo.com/files/qb6ow1728793223.jpg)
   
   <p><strong>Foody.com</strong> is a simple food-themed website that allows users to search for food items and explore different categories such as fast food, rice and curry, cake, and drinks. The website is designed with an aesthetic layout and user-friendly features, including hover effects, search functionality, and animated elements.</p>
 
