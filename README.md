@@ -57,9 +57,6 @@
 
   <h2>Author</h2>
   <p>Created by <strong>skmaurya05550</strong>.</p>
-  <footer>
-    &copy; 2024 Foody. All rights reserved.
-  </footer>
 
 </body>
 </html>
